@@ -2,6 +2,7 @@
 public class HelloWorld {
 
     private String name;
+    private int countA;
 
     public HelloWorld() {
     }
