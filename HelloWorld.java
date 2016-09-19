@@ -18,4 +18,7 @@ public class HelloWorld {
         this.name = name;
     }
 
+    public static void main(String[]args){
+        HelloWorld hw = new HelloWorld("gugus");
+    }
 }
